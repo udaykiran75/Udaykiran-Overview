@@ -1,6 +1,6 @@
 # Udaykiran-Overview
-<h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm UDAYAKIRAN</h1>
+<h3 align="center">A passionate MERN Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaskumaryadav13&label=Profile%20views&color=0e75b6&style=flat" alt="vikaskumaryadav13" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Mern,Python**
 
-- 📫 How to reach me **vikasku664@gmail.com**
+- 📫 How to reach me **s.udayakiran7550@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

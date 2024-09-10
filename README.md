@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern Full Stack Developer Trainee at NxtWave**
 
-- 💬 Ask me about **HTML,CSS,SQL,Python,Javascript,NodeJS,ExpressJS,ReactJS**
+- 💬 Ask me about **HTML, CSS, SQL, Python, Javascript, NodeJS, ExpressJS, ReactJS**
 
 - 📫 How to reach me **s.udayakiran7550@gmail.com**
 

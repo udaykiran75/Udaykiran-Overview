@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **s.udayakiran7550@gmail.com**
 
-![download](https://github.com/user-attachments/assets/718bd72e-401a-4c69-a1a1-4d9a308a2e30)
+
 
 
 
